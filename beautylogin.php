@@ -2,6 +2,7 @@
 // стартиране на сесия ( ще трябва по-долу )
 session_start();
 
+
 $servername = "127.0.0.1";
 	$username = "root";
 	$password = "veselin7";
