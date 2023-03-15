@@ -54,7 +54,7 @@ if ( isset( $_POST['submit'] ) ) {
 
 	<form method="post">
 	<label>Потребителско име:</label><br>
-	<input type="text" name="username"><br><br>
+	<input type="email" name="username"><br><br>
 	<label>Парола:</label><br>
 	<input type="password" name="password"><br><br>
 	<input type="submit" name="submit" value="Вход">
